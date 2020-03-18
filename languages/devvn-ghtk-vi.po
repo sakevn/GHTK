@@ -1,0 +1,607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DevVN - Woocommerce - Giao Hàng Tiết Kiệm (GHTK)\n"
+"POT-Creation-Date: 2019-11-23 15:52+0700\n"
+"PO-Revision-Date: 2019-11-23 15:52+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: devvn-woo-ghtk.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: devvn-woo-ghtk.php:234 devvn-woo-ghtk.php:235
+msgid "Cài đặt GHTK"
+msgstr ""
+
+#: devvn-woo-ghtk.php:267
+msgid "Gender"
+msgstr "Xưng hô"
+
+#: devvn-woo-ghtk.php:274
+msgid "Mr"
+msgstr "Anh"
+
+#: devvn-woo-ghtk.php:275
+msgid "Mrs"
+msgstr "Chị"
+
+#: devvn-woo-ghtk.php:282 devvn-woo-ghtk.php:355 devvn-woo-ghtk.php:748
+msgid "Full name"
+msgstr "Họ và tên"
+
+#: devvn-woo-ghtk.php:283 devvn-woo-ghtk.php:356 devvn-woo-ghtk.php:749
+msgctxt "placeholder"
+msgid "Type Full name"
+msgstr "Nhập đầy đủ họ và tên"
+
+#: devvn-woo-ghtk.php:292
+msgid "Type your phone"
+msgstr "Số điện thoại"
+
+#: devvn-woo-ghtk.php:296
+msgid "Type your email"
+msgstr "Email của bạn"
+
+#: devvn-woo-ghtk.php:299 devvn-woo-ghtk.php:375 devvn-woo-ghtk.php:725
+msgid "Province/City"
+msgstr "Tỉnh/Thành phố"
+
+#: devvn-woo-ghtk.php:303 devvn-woo-ghtk.php:379
+msgctxt "placeholder"
+msgid "Select Province/City"
+msgstr "Chọn tỉnh/thành phố"
+
+#: devvn-woo-ghtk.php:304 devvn-woo-ghtk.php:380
+msgid "Select Province/City"
+msgstr "Chọn tỉnh/thành phố"
+
+#: devvn-woo-ghtk.php:308 devvn-woo-ghtk.php:384 devvn-woo-ghtk.php:759
+msgid "District"
+msgstr "Quận/Huyện"
+
+#: devvn-woo-ghtk.php:312 devvn-woo-ghtk.php:388 devvn-woo-ghtk.php:763
+msgctxt "placeholder"
+msgid "Select District"
+msgstr "Chọn quận huyện"
+
+#: devvn-woo-ghtk.php:320 devvn-woo-ghtk.php:396 devvn-woo-ghtk.php:770
+msgid "Commune/Ward/Town"
+msgstr "Xã/Phường/thị trấn"
+
+#: devvn-woo-ghtk.php:324 devvn-woo-ghtk.php:400 devvn-woo-ghtk.php:773
+msgctxt "placeholder"
+msgid "Select Commune/Ward/Town"
+msgstr "Chọn xã/Phường/thị trấn"
+
+#: devvn-woo-ghtk.php:334 devvn-woo-ghtk.php:410
+msgctxt "placeholder"
+msgid "Ex: No. 20, 90 Alley"
+msgstr "Ví dụ: Số 20, ngõ 90, đường Cầu Diễn"
+
+#: devvn-woo-ghtk.php:364 devvn-woo-ghtk.php:836
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: devvn-woo-ghtk.php:365
+msgctxt "placeholder"
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: devvn-woo-ghtk.php:482 devvn-woo-ghtk.php:708 devvn-woo-ghtk.php:1654
+msgid "No value"
+msgstr "Không có giá trị"
+
+#: devvn-woo-ghtk.php:671
+msgid "Phone number of the recipient"
+msgstr "Số điện thoại của người nhận"
+
+#: devvn-woo-ghtk.php:684
+msgid "Shipping Phone:"
+msgstr "Số điện thoại:"
+
+#: devvn-woo-ghtk.php:791 devvn-woo-ghtk.php:851
+msgid "First name"
+msgstr "Họ"
+
+#: devvn-woo-ghtk.php:795 devvn-woo-ghtk.php:855
+msgid "Last name"
+msgstr ""
+
+#: devvn-woo-ghtk.php:799 devvn-woo-ghtk.php:859
+msgid "Company"
+msgstr ""
+
+#: devvn-woo-ghtk.php:803 devvn-woo-ghtk.php:863
+msgid "Country"
+msgstr ""
+
+#: devvn-woo-ghtk.php:807 devvn-woo-ghtk.php:867
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: devvn-woo-ghtk.php:810 devvn-woo-ghtk.php:870
+msgid "Tỉnh/thành phố"
+msgstr ""
+
+#: devvn-woo-ghtk.php:815 devvn-woo-ghtk.php:875 includes/options-page.php:240
+#: includes/options-page.php:362
+msgid "Quận/huyện"
+msgstr ""
+
+#: devvn-woo-ghtk.php:819 devvn-woo-ghtk.php:879
+msgid "Chọn quận/huyện&hellip;"
+msgstr ""
+
+#: devvn-woo-ghtk.php:822 devvn-woo-ghtk.php:882
+msgid "Xã/phường/thị trấn"
+msgstr ""
+
+#: devvn-woo-ghtk.php:826 devvn-woo-ghtk.php:886
+msgid "Chọn xã/phường/thị trấn&hellip;"
+msgstr ""
+
+#: devvn-woo-ghtk.php:829 devvn-woo-ghtk.php:889
+msgid "Address line 1"
+msgstr ""
+
+#: devvn-woo-ghtk.php:833
+msgid "Email address"
+msgstr ""
+
+#: devvn-woo-ghtk.php:948
+msgid "Settings"
+msgstr ""
+
+#: devvn-woo-ghtk.php:958
+msgid "Check đơn hàng"
+msgstr ""
+
+#: devvn-woo-ghtk.php:959
+msgid "In hóa đơn GHTK"
+msgstr ""
+
+#: devvn-woo-ghtk.php:960
+msgid "In hóa đơn theo mẫu riêng"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1057
+msgid "Đăng đơn hàng lên GHTK"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1375 devvn-woo-ghtk.php:1387 devvn-woo-ghtk.php:1441
+msgid "Choose an option"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1393
+msgid "required"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1677
+msgid "Không tìm thấy dữ liệu. Vui lòng thử lại sau!"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1747
+msgid "Nhập mã vận đơn của bạn"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1748
+msgid "Kiểm tra"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1815
+msgid ""
+"<strong>Bạn chưa đăng ký Webhook</strong> - Webhook để tự động cập nhật "
+"trạng thái đơn hàng từ GHTK về web. Thêm <a href=\"#webhook\" title=\"\">tại "
+"đây</a>"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1855
+msgid "Đăng đơn lên GHTK"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1858
+msgid "Cửa hàng/kho lấy hàng"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1890
+msgid "Thông tin đơn hàng"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1905
+msgid "Thông tin người nhận hàng"
+msgstr ""
+
+#: devvn-woo-ghtk.php:1944
+msgid "Thông tin đăng đơn lên GHTK"
+msgstr ""
+
+#: devvn-woo-ghtk.php:2048
+msgid "In đơn hàng"
+msgstr ""
+
+#: devvn-woo-ghtk.php:2079
+msgid "Please choose gender"
+msgstr ""
+
+#. translators: %s template
+#: devvn-woo-ghtk.php:2099
+#, php-format
+msgid "%s không tồn tại."
+msgstr ""
+
+#: devvn-woo-ghtk.php:2200 includes/options-page.php:129
+msgid "Xưng hô"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:19
+msgid "Giao hàng tiết kiệm (GHTK)"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:20
+msgid "Tính phí vận chuyển và đồng bộ đơn hàng với giao hàng tiết kiệm (GHTK)"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:47 includes/options-page.php:495
+#: includes/options-page.php:497
+msgid "Kích hoạt"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:49
+msgid "Kích hoạt tính phí vận chuyển bằng GHTK"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:53
+msgid "Tiêu đề"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:55
+msgid "Mô tả cho phương thức vận chuyển"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:56
+msgid "Vận chuyển qua GHTK"
+msgstr ""
+
+#: includes/class-ghtk-shipping.php:95
+msgid "Nhập địa chỉ đầy đủ của bạn để xem phí giao hàng."
+msgstr ""
+
+#. translators: 1: first name 2: last name
+#: includes/class-order-style.php:95 includes/class-order-style.php:98
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/class-order-style.php:102
+msgid "Guest"
+msgstr ""
+
+#: includes/class-order-style.php:106
+#, php-format
+msgid "%1$s <br> %2$s<br>"
+msgstr ""
+
+#: includes/class-order-style.php:135
+msgid "Via"
+msgstr ""
+
+#: includes/class-order-style.php:137
+msgid "Show more details"
+msgstr ""
+
+#: includes/class-order-style.php:202 includes/class-order-style.php:212
+msgid "Lưu"
+msgstr ""
+
+#: includes/class-order-style.php:203 includes/class-order-style.php:213
+msgid "Xóa"
+msgstr ""
+
+#. translators: %d: notes count
+#: includes/class-order-style.php:231
+#, php-format
+msgid "%d tin nhắn"
+msgid_plural "%d tin nhắn"
+msgstr[0] ""
+
+#: includes/class-vncheckout-vnd-paypal-standard.php:80
+#, php-format
+msgid ""
+"The prices will be converted to %1$s in the PayPal pages with the exchange "
+"rate %2$s."
+msgstr ""
+
+#: includes/options-page.php:14 includes/options-page.php:16
+msgid "Ẩn mục phường/xã"
+msgstr ""
+
+#: includes/options-page.php:20
+msgid "KHÔNG bắt buộc nhập phường/xã"
+msgstr ""
+
+#: includes/options-page.php:22
+msgid "Không bắt buộc"
+msgstr ""
+
+#: includes/options-page.php:26
+msgid "Chuyển ₫ sang VNĐ"
+msgstr ""
+
+#: includes/options-page.php:28
+msgid "Cho phép chuyển sang VNĐ"
+msgstr ""
+
+#: includes/options-page.php:33
+msgid "Loại bỏ tiêu đề vận chuyển"
+msgstr ""
+
+#: includes/options-page.php:35
+msgid "Loại bỏ hoàn toàn tiêu đề của phương thức vận chuyển"
+msgstr ""
+
+#: includes/options-page.php:39
+msgid "Ẩn phương thức khi có free-shipping"
+msgstr ""
+
+#: includes/options-page.php:41
+msgid "Ẩn tất cả những phương thức vận chuyển khác khi có miễn phí vận chuyển"
+msgstr ""
+
+#: includes/options-page.php:45 includes/options-page.php:102
+msgid "Số quy đổi"
+msgstr ""
+
+#: includes/options-page.php:48
+msgid "Thương số quy đổi. Mặc định theo Viettel Post là 6000"
+msgstr ""
+
+#: includes/options-page.php:52
+msgid "Kích hoạt chuyển đổi VNĐ sang USD"
+msgstr ""
+
+#: includes/options-page.php:54
+msgid "Kích hoạt chuyển đổi VNĐ sang USD để có thể sử dụng paypal"
+msgstr ""
+
+#: includes/options-page.php:58
+msgid "VNĐ quy đổi sang tiền"
+msgstr ""
+
+#: includes/options-page.php:105
+msgid "Tỷ giá quy đổi từ VNĐ"
+msgstr ""
+
+#: includes/options-page.php:109
+msgid "Thay đổi giao diện trang đơn hàng"
+msgstr ""
+
+#: includes/options-page.php:111
+msgid "Thay đổi giao diện trang danh sách đơn hàng"
+msgstr ""
+
+#: includes/options-page.php:115
+msgid "Alepay"
+msgstr ""
+
+#: includes/options-page.php:117
+msgid "Hỗ trợ thanh toán qua Alepay"
+msgstr ""
+
+#: includes/options-page.php:124
+msgid "Hiện trường Postcode"
+msgstr ""
+
+#: includes/options-page.php:131
+msgid "Hiển thị mục chọn cách xưng hô"
+msgstr ""
+
+#: includes/options-page.php:142
+msgid "Token Key"
+msgstr ""
+
+#: includes/options-page.php:148
+msgid "Mã SHOP"
+msgstr ""
+
+#: includes/options-page.php:155
+msgid "Miễn phí vận chuyển"
+msgstr ""
+
+#: includes/options-page.php:157
+msgid "Freeship cho người nhận hàng."
+msgstr ""
+
+#: includes/options-page.php:162
+msgid "Hình thức vận chuyển"
+msgstr ""
+
+#: includes/options-page.php:164
+msgid "Đường bộ."
+msgstr ""
+
+#: includes/options-page.php:165
+msgid "Đường bay."
+msgstr ""
+
+#: includes/options-page.php:170
+msgid "Sandbox"
+msgstr ""
+
+#: includes/options-page.php:172
+msgid "Chế độ TEST"
+msgstr ""
+
+#: includes/options-page.php:199 includes/options-page.php:321
+msgid "Kho hàng"
+msgstr ""
+
+#: includes/options-page.php:204 includes/options-page.php:326
+msgid "Mã kho trên GHTK"
+msgstr ""
+
+#: includes/options-page.php:206 includes/options-page.php:328
+msgid ""
+"Mã kho trên hệ thống của GHTK - sẽ ưu tiên chọn nếu điền mã kho tại đây."
+msgstr ""
+
+#: includes/options-page.php:209 includes/options-page.php:331
+msgid "Tên chủ SHOP "
+msgstr ""
+
+#: includes/options-page.php:211 includes/options-page.php:333
+msgid "String - Tên người liên hệ lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:215 includes/options-page.php:337
+msgid "Email shop"
+msgstr ""
+
+#: includes/options-page.php:217 includes/options-page.php:339
+msgid "String - Email liên hệ nơi lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:220 includes/options-page.php:342
+msgid "Số điện thoại SHOP"
+msgstr ""
+
+#: includes/options-page.php:222 includes/options-page.php:344
+msgid "String - Số điện thoại liên hệ nơi lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:228 includes/options-page.php:350
+msgid "Tỉnh thành"
+msgstr ""
+
+#: includes/options-page.php:230 includes/options-page.php:352
+msgid "Chọn tỉnh/thành phố"
+msgstr ""
+
+#: includes/options-page.php:237 includes/options-page.php:359
+msgid "Tỉnh/thành phố nơi lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:245 includes/options-page.php:364
+msgid "Chọn quận/huyện"
+msgstr ""
+
+#: includes/options-page.php:252 includes/options-page.php:366
+msgid "Quận/huyện nơi lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:255 includes/options-page.php:369
+msgid "Xã/Phường/thị trấn"
+msgstr ""
+
+#: includes/options-page.php:260 includes/options-page.php:371
+msgid "Chọn phường/xã"
+msgstr ""
+
+#: includes/options-page.php:267 includes/options-page.php:373
+msgid "Phường/xã nơi lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:270 includes/options-page.php:376
+msgid "Tên đường/phố"
+msgstr ""
+
+#: includes/options-page.php:272 includes/options-page.php:378
+msgid "String - Tên đường/phố nơi lấy hàng hóa"
+msgstr ""
+
+#: includes/options-page.php:278 includes/options-page.php:384
+msgid "Địa chỉ"
+msgstr ""
+
+#: includes/options-page.php:280 includes/options-page.php:386
+msgid ""
+"String - Địa chỉ ngắn gọn để lấy nhận hàng hóa. Ví dụ: nhà số 5, tổ 3, ngách "
+"11, ngõ 45"
+msgstr ""
+
+#: includes/options-page.php:285 includes/options-page.php:391
+msgid "Cửa hàng/kho chính"
+msgstr ""
+
+#: includes/options-page.php:290 includes/options-page.php:396
+msgid "Khu vực bán hàng"
+msgstr ""
+
+#: includes/options-page.php:464
+msgid "Logo"
+msgstr ""
+
+#: includes/options-page.php:473
+msgid "Select images"
+msgstr "Chọn ảnh"
+
+#: includes/options-page.php:478
+msgid "Ghi chú"
+msgstr ""
+
+#: includes/options-page.php:501
+msgid "Tiêu đề mail"
+msgstr ""
+
+#: includes/options-page.php:523
+msgid "License Key"
+msgstr ""
+
+#: includes/updates.php:156
+#, php-format
+msgid ""
+"<strong>Mua bản quyền để được tự động update. <a href=\"%s\" target=\"_blank"
+"\">Xem thêm thông tin mua bản quyền</a></strong>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DevVN - Woocommerce - Giao Hàng Tiết Kiệm (GHTK)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://doibu.com/san-pham/plugin-ket-noi-giao-hang-tiet-kiem-voi-"
+"woocommerce-ghtk-vs-woocommerce/"
+msgstr ""
+"https://doibu.com/san-pham/plugin-ket-noi-giao-hang-tiet-kiem-voi-"
+"woocommerce-ghtk-vs-woocommerce/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add province/city, district, commune/ward/town to checkout form and simplify "
+"checkout form. Sync order and calc shipping code form GHTK"
+msgstr ""
+"Thêm tỉnh/thành phố, quận huyện, xã/phường/thị trấn vào form checkout của "
+"woocommerce và tối giản form checkout cho phù hợp với Việt Nam"
+
+#. Author of the plugin/theme
+msgid "Le Van Toan"
+msgstr "Le Van Toan"
+
+#. Author URI of the plugin/theme
+msgid "http://doibu.com"
+msgstr "http://doibu.com"
+
+#~ msgid "Woo Vietnam Checkout Setting"
+#~ msgstr "Cài đặt trang thanh toán"
+
+#~ msgid "Vietnam Checkout"
+#~ msgstr "Woocommerce Việt Nam"
+
+#~ msgid "District Zone"
+#~ msgstr "Quận/Huyện"
+
+#~ msgid "Woocommerce Vietnam Checkout PRO"
+#~ msgstr "Woocommerce Vietnam Checkout PRO"
