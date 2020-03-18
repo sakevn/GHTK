@@ -1,6 +1,6 @@
 == Changelog ==
 
-Thông tin thêm [về plugin này](https://levantoan.com/san-pham/plugin-ket-noi-giao-hang-tiet-kiem-voi-woocommerce-ghtk-vs-woocommerce/).
+Thông tin thêm [về plugin này](https://doibu.com/san-pham/plugin-ket-noi-giao-hang-tiet-kiem-voi-woocommerce-ghtk-vs-woocommerce/).
 
 = 1.3.4 - xx.xx.2019 =
 
@@ -205,7 +205,7 @@ function devvn_invoice_after_shop_address_author_order($order){
 = 1.0.1 - 07.02.2018 =
 
 * Tiêu đề sản phẩm kèm theo variation của sản phẩm. Ví dụ Iphone Màu-trắng | Dung lượng – 8G
-* Sử dụng webhook để tự động cập nhật tình trạng đơn hàng từ hệ thống của ghtk. Các thiết lập webhook [xem thêm tại đây](https://levantoan.com/san-pham/plugin-ket-noi-giao-hang-tiet-kiem-voi-woocommerce-ghtk-vs-woocommerce/#setting-webhook)
+* Sử dụng webhook để tự động cập nhật tình trạng đơn hàng từ hệ thống của ghtk. Các thiết lập webhook [xem thêm tại đây](https://doibu.com/san-pham/plugin-ket-noi-giao-hang-tiet-kiem-voi-woocommerce-ghtk-vs-woocommerce/#setting-webhook)
 
 = 1.0 - 02.02.2018=
 
